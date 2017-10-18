@@ -1,2 +1,5 @@
 # administ
-Django debugging page only for admin
+A very simple django middleware for view django exception debug page.
+developed by bunseokbot@SSG
+
+## Install administ
